@@ -16,7 +16,7 @@ Welcome to the Address Book project! This Python application allows you to manag
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/address-book.git
+   git clone https://github.com/sarangs1621/address-book.git
    ```
 
 2. Navigate to the project directory:
